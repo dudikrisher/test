@@ -3,10 +3,11 @@
   "theme": "mint",
   "name": "Your Docs",
   "colors": {
-    "primary": "#ff0000"
+    "primary": "#3B82F6"
   },
   "navigation": {
-    // Your navigation structure
+    "pages": [
+      "index"
+    ]
   }
-  // The rest of your configuration
 }
